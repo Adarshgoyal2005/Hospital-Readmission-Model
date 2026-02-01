@@ -55,10 +55,10 @@ This project predicts readmission risk at admission time, enabling early clinica
 
 _Model	Purpose	Outcome_
 
-| Model | | Type | | Performance |
-| :---: | | :---: | | :---: |
-| Logistic Regression |	| Baseline |	| Moderate performance |
-| Random Forest	| | Final model |	| Higher accuracy & F1-score |
+| Model | Type | Performance |
+| --- | --- | --- |
+| Logistic Regression | Baseline | Moderate performance |
+| Random Forest	| Final model | Higher accuracy & F1-score |
 
 
 ➡️ _Random Forest selected for deployment due to robustness and generalization performance._
