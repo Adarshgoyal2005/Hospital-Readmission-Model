@@ -54,6 +54,7 @@ This project predicts readmission risk at admission time, enabling early clinica
 🤖 **Models & Evaluation**
 
 _Model	Purpose	Outcome_
+
 | Model | | Type | | Performance |
 | :---: | | :---: | | :---: |
 | Logistic Regression |	| Baseline |	| Moderate performance |
